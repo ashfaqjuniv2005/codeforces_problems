@@ -1,3 +1,4 @@
+// source from tourist 
 
 #undef _GLIBCXX_DEBUG
 
@@ -84,3 +85,4 @@ int main() {
   debug(clock());
   return 0;
 }
+
